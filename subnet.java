@@ -96,7 +96,7 @@ public class subnet
         return "Saltos de -> "+saltos;
     }
 
-    public static void n()
+    public static void main(String [] args)
     {
         subnet s = new subnet();
         /*System.out.println("mascara de 20 -> "+s.devolverExponente(20)+" -> "+s.mascara(20));
